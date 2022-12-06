@@ -1,6 +1,6 @@
 exports.paginaInicial = (req, res) => {
     res.render('index', {
-      titulo:'Intranet - 2022'
+      titulo:'Automax Fiat'
     });
     return;
 };
